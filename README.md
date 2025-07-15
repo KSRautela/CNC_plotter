@@ -58,3 +58,27 @@ Simple and high quality CNC drawing machine
 # Code
 
 Code that be uploaded to the arduino to enable it to receive GRBL instructions is in examples of grbl-mi which is to be upladed to Arduino IDE as a library 
+
+# Connections
+
+■ Arduino Uno to stepper motor driver shield
+
+■ 12V 2A power supply to power in on stepper motor driver shield
+
+■ 6 jumpers on microstepping of X axis and Y axis
+
+■ 1 jumper on EN/GND
+
+■ DRV8825 on X and Y axis accoring to pins
+
+■ X motor pins to X motor out
+
+■ Y motor pins to Y motor out
+
+■ X end stop to X-/GND on shield 
+
+■ Y end stop to Y-/GND on shield 
+
+■ Servo 5v and GND to 5V/GND on shield
+
+■ Servo signal to Z+
