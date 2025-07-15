@@ -57,6 +57,10 @@ Simple and high quality CNC drawing machine
 
 ■ Short wood screws (x8)
 
+
+https://github.com/user-attachments/assets/7d5b39cc-11db-47ee-aa22-920289276872
+
+
 ## Code
 
 Code that be uploaded to the arduino to enable it to receive GRBL instructions is in examples of grbl-mi which is to be upladed to Arduino IDE as a library 
