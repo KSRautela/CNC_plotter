@@ -1,6 +1,8 @@
 # CNC_plotter
 Simple and high quality CNC drawing machine
 
+![WhatsApp Image 2025-07-15 at 09 29 29 (2)](https://github.com/user-attachments/assets/2982228c-0700-473a-996d-37c2f134767a)
+
 ## List of items used
 
 ■ 8 x15 x 45mm Linear Bearing (x2)
