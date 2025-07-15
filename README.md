@@ -1,7 +1,7 @@
-## CNC_plotter
+# CNC_plotter
 Simple and high quality CNC drawing machine
 
-# List of items used
+## List of items used
 
 ■ 8 x15 x 45mm Linear Bearing (x2)
 
@@ -37,7 +37,7 @@ Simple and high quality CNC drawing machine
 
 ■ Wooden panel to mount project at least 40x45cm 
 
-# Nuts, bolts and screws needed:
+## Nuts, bolts and screws needed:
 
 ■ M5 x 25mm (x2)
 
@@ -55,11 +55,11 @@ Simple and high quality CNC drawing machine
 
 ■ Short wood screws (x8)
 
-# Code
+## Code
 
 Code that be uploaded to the arduino to enable it to receive GRBL instructions is in examples of grbl-mi which is to be upladed to Arduino IDE as a library 
 
-# Connections
+## Connections
 
 ■ Arduino Uno to stepper motor driver shield
 
