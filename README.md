@@ -90,3 +90,9 @@ Code that be uploaded to the arduino to enable it to receive GRBL instructions i
 ■ Servo 5v and GND to 5V/GND on shield
 
 ■ Servo signal to Z+
+
+## How to run
+
+Now any Gcode sender on the users PC can be used to control the CNC plotter 
+
+https://github.com/user-attachments/assets/133c555b-2a7e-4263-94ef-4a708261389a
