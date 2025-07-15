@@ -21,11 +21,22 @@ Simple and high quality CNC drawing machine
 ■ Wooden panel to mount project at least 40x45cm 
 
 # Nuts, bolts and screws needed:
+
 ■ M5 x 25mm (x2)
+
 ■ M3 x 18 (x3)
+
 ■ M3 x 12 (x2)
+
 ■ M3 x10 (x3)
+
 ■ M3 x 6 (X14)
+
 ■ M3 nuts (x9)
+
 ■ M5 nut (x1)
+
 ■ Short wood screws (x8)
+
+# Code
+Code that be uploaded to the arduino to enable it to receive GRBL instructions is in examples of grbl-mi which is to be upladed to Arduino IDE as a library 
