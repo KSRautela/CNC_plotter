@@ -63,6 +63,8 @@ Code that be uploaded to the arduino to enable it to receive GRBL instructions i
 
 ## Connections
 
+![WhatsApp Image 2025-07-15 at 09 29 29 (1)](https://github.com/user-attachments/assets/70359dd6-f3ac-4cc6-9f72-661567d0cb03)
+
 ■ Arduino Uno to stepper motor driver shield
 
 ■ 12V 2A power supply to power in on stepper motor driver shield
